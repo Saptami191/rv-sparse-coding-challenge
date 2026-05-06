@@ -202,3 +202,6 @@ This implementation focuses on:
 
 The current implementation scans a dense input matrix while generating sparse CSR output dynamically. In production sparse HPC systems, matrices are typically already stored in sparse formats to avoid dense scanning overhead.
 ````
+
+
+<img width="1038" height="737" alt="Screenshot 2026-05-06 152034" src="https://github.com/user-attachments/assets/c156f865-ea02-43a3-a602-9f3e8d78d1ec" />
